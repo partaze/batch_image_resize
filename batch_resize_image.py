@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
+'''@author partaze aka Cheryl'''
 import os
 from PIL import Image
-'''@author partaze aka Cheryl'''
 
 def create_list(source):
     '''Create a list of current image files within a specified folder'''
